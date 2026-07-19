@@ -1,109 +1,125 @@
 <div align="center">
 
-<img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/chrolloworld/chrolloworld/main/assets/banner.png" width="100%" alt="Banner"/>
 
-# Hi there! 👋 I'm Your Name
+# 👋 Hi, I'm Chrolloworld
 
-*"Turning ideas into code, one commit at a time."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Enthusiast;Discord+Bot+Developer;Automation+Lover;Always+Learning+New+Things"/>
 
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Discord](https://img.shields.io/badge/Discord-yourusername-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=chrolloworld&label=Profile%20Views&color=7AA2F7&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-Hello! I'm a passionate developer with a strong enthusiasm for building useful, scalable, and elegant software.
+I'm a passionate developer who enjoys transforming ideas into practical and elegant software.
 
-Python is my primary language of choice, and I enjoy using it to create automation tools, backend services, bots, APIs, and various experimental projects. I'm constantly learning new technologies and refining my development skills to write cleaner, more efficient, and maintainable code.
+My primary language is **Python**, where I focus on developing Discord bots, automation tools, backend services, REST APIs, and other projects that solve real-world problems.
 
-Beyond coding, I enjoy collaborating with other developers, contributing to open-source projects, and exploring innovative ideas that challenge my creativity.
+I believe that writing software isn't only about making things work—it's about creating solutions that are clean, maintainable, and enjoyable for both developers and users.
 
-> *"Code should not only work—it should be readable, maintainable, and enjoyable to build."*
+Outside of coding, I'm always exploring new technologies, improving my skills, and challenging myself with new ideas.
 
----
-
-## 💻 Tech Stack
-
-### Languages
-
-- 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript *(Learning)*
-
-### Frameworks & Libraries
-
-- FastAPI
-- Flask
-- Discord.py
-- Pycord
-- Requests
-- SQLAlchemy
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-- Docker
-- Linux
-- SQLite
-- PostgreSQL
+> *"Great software starts with great curiosity."*
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Tech Stack
 
-- Advanced Python Design Patterns
-- Asynchronous Programming
-- Cloud Deployment
-- Docker & Containerization
-- API Architecture
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,github,vscode,docker,linux,postgresql,sqlite&theme=dark"/>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrolloworld&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrolloworld&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=chrolloworld&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🎯 What I Love Building
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chrolloworld&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chrolloworld&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Aktifkan setelah workflow GitHub Actions dibuat.**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chrolloworld/chrolloworld/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💻 What I Enjoy Building
 
 - 🤖 Discord Bots
 - ⚙️ Automation Scripts
 - 🌐 REST APIs
-- 📊 Data Processing Tools
-- 🔒 Security Utilities
-- 🧩 Open Source Projects
+- 🔥 Backend Applications
+- 🛠 Open Source Projects
+- 📦 Developer Utilities
 
 ---
 
-## 📫 Connect With Me
+# 🌱 Currently Learning
 
-- 💬 Discord: **chrollohxhz**
-- 🌐 GitHub: https://github.com/chrolloworld
+- Advanced Python
+- FastAPI
+- Docker
+- System Design
+- Cloud Deployment
+- Linux Administration
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-chrolloworld-181717?style=for-the-badge&logo=github)](https://github.com/chrolloworld)
+
+[![Discord](https://img.shields.io/badge/Discord-chrollohxhz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! ⭐
+### ⭐ Thanks for visiting!
 
-*"Keep learning, keep building, and never stop creating."*
+*"Code with curiosity. Build with purpose."*
 
 </div>
