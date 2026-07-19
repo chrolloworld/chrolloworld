@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/chrolloworld/chrolloworld/main/assets/banner.gif" width="100%" alt="Banner">
 
+<br><br>
+
 # 👋 Hi, I'm Chrolloworld
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Enthusiast;Discord+Bot+Developer;Automation+Lover;Always+Learning+New+Things"/>
@@ -9,6 +11,8 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chrolloworld&label=Profile%20Views&color=7AA2F7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/chrolloworld?style=for-the-badge&color=7AA2F7)
+![Stars](https://img.shields.io/github/stars/chrolloworld?style=for-the-badge&color=7AA2F7)
 
 </div>
 
@@ -16,15 +20,29 @@
 
 # 💫 About Me
 
-I'm a passionate developer who enjoys transforming ideas into practical and elegant software.
+```python
+class Developer:
 
-My primary language is **Python**, where I focus on developing Discord bots, automation tools, backend services, REST APIs, and other projects that solve real-world problems.
+    def __init__(self):
+        self.name = "Chrolloworld"
+        self.language = "Python"
+        self.role = "Backend Developer"
+        self.interests = [
+            "Discord Bots",
+            "Automation",
+            "REST API",
+            "Open Source"
+        ]
 
-I believe that writing software isn't only about making things work—it's about creating solutions that are clean, maintainable, and enjoyable for both developers and users.
+    def motto(self):
+        return "Code with curiosity. Build with purpose."
+```
 
-Outside of coding, I'm always exploring new technologies, improving my skills, and challenging myself with new ideas.
+I'm a passionate **Python Developer** who enjoys turning ideas into reliable and elegant software.
 
-> *"Great software starts with great curiosity."*
+My main interests include developing **Discord Bots**, **Backend Services**, **Automation Tools**, and **REST APIs**. I enjoy writing clean, maintainable, and scalable code while continuously exploring modern technologies and best practices.
+
+I believe that software development is more than just writing code—it's about solving problems, creating value, and continuously improving.
 
 ---
 
@@ -32,7 +50,7 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,github,vscode,docker,linux,postgresql,sqlite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,github,vscode,docker,linux,postgresql,sqlite,html,css,js&theme=dark"/>
 
 </div>
 
@@ -50,6 +68,16 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 
 ---
 
+# ⚡ GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chrolloworld&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # 📈 Contribution Graph
 
 <div align="center">
@@ -62,7 +90,7 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 
 # 🐍 Contribution Snake
 
-> **Aktifkan setelah workflow GitHub Actions dibuat.**
+> *This animation will appear after enabling the GitHub Actions workflow.*
 
 <div align="center">
 
@@ -72,7 +100,7 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 
 ---
 
-# 💻 What I Enjoy Building
+# 💻 What I Love Building
 
 - 🤖 Discord Bots
 - ⚙️ Automation Scripts
@@ -80,6 +108,7 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 - 🔥 Backend Applications
 - 🛠 Open Source Projects
 - 📦 Developer Utilities
+- ☁️ Cloud Ready Services
 
 ---
 
@@ -88,9 +117,11 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 - Advanced Python
 - FastAPI
 - Docker
-- System Design
+- Linux
+- PostgreSQL
 - Cloud Deployment
-- Linux Administration
+- System Design
+- Software Architecture
 
 ---
 
@@ -98,9 +129,13 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-chrolloworld-181717?style=for-the-badge&logo=github)](https://github.com/chrolloworld)
+<a href="https://github.com/chrolloworld">
+<img src="https://img.shields.io/badge/GitHub-chrolloworld-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![Discord](https://img.shields.io/badge/Discord-chrollohxhz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-chrollohxhz-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
 
@@ -108,8 +143,13 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+## 💭 Favorite Quote
 
-*"Code with curiosity. Build with purpose."*
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=120&section=footer"/>
 
 </div>
