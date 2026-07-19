@@ -64,7 +64,7 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chrolloworld&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chrolloworld&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
