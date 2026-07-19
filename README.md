@@ -69,8 +69,8 @@ Beyond coding, I enjoy collaborating with other developers, contributing to open
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chrolloworld&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrolloworld&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ Beyond coding, I enjoy collaborating with other developers, contributing to open
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=chrolloworld&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -96,8 +96,8 @@ Beyond coding, I enjoy collaborating with other developers, contributing to open
 
 ## 📫 Connect With Me
 
-- 💬 Discord: **yourusername**
-- 🌐 GitHub: https://github.com/yourusername
+- 💬 Discord: **chrollohxhz**
+- 🌐 GitHub: https://github.com/chrolloworld
 
 ---
 
