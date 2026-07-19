@@ -60,16 +60,6 @@ Outside of coding, I'm always exploring new technologies, improving my skills, a
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chrolloworld&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 > **Aktifkan setelah workflow GitHub Actions dibuat.**
