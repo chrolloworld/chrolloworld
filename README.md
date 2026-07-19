@@ -11,7 +11,6 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chrolloworld&label=Profile%20Views&color=7AA2F7&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/chrolloworld?label=Followers&style=for-the-badge&logo=github)
 
 </div>
 
