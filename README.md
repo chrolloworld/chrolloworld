@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chrolloworld/chrolloworld/main/assets/banner.mp4" width="100%" alt="Banner">
+<img src="https://raw.githubusercontent.com/chrolloworld/chrolloworld/main/assets/banner.gif" width="100%" alt="Banner">
 
 # 👋 Hi, I'm Chrolloworld
 
